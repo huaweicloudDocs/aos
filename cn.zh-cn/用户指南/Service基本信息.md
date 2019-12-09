@@ -17,7 +17,7 @@
 -   docker镜像：image。
 -   布尔：bool。
 
-    >![](public_sys-resources/icon-notice.gif) **注意：**   
+    >![](public_sys-resources/icon-notice.gif) **须知：**   
     >yml文件中书写格式以两个空格分层，不能有tab键，否则发布服务时配置文件会报格式错误。  
 
 

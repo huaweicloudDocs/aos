@@ -1,6 +1,6 @@
 # 云审计服务支持的AOS操作列表<a name="aos_01_9012"></a>
 
-云审计服务（Cloud Trace Service，简称CTS），能够记录各云服务在公有云每次操作详细信息，为客户在问题定位、资源管理、安全审计方面提供数据支撑。开启云审计服务后，CTS系统开始记录AOS资源的操作。云审计服务管理控制台保存最近7天的操作记录。
+云审计服务（Cloud Trace Service，简称CTS），能够记录各云服务每次操作详细信息，为客户在问题定位、资源管理、安全审计方面提供数据支撑。开启云审计服务后，CTS系统开始记录AOS资源的操作。云审计服务管理控制台保存最近7天的操作记录。
 
 **表 1**  云审计服务支持的AOS操作列表
 
@@ -64,32 +64,6 @@
 <tr id="row19660727172811"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.3.1.1 "><p id="p106321939132816"><a name="p106321939132816"></a><a name="p106321939132816"></a>GetBillingData</p>
 </td>
 <td class="cellrowborder" valign="top" width="74%" headers="mcps1.2.3.1.2 "><p id="p7161470285"><a name="p7161470285"></a><a name="p7161470285"></a>生成话单</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-## 相关产品及文档<a name="section1295120817234"></a>
-
-<a name="table1196182515236"></a>
-<table><thead align="left"><tr id="row61991225132314"><th class="cellrowborder" valign="top" width="50%" id="mcps1.1.3.1.1"><p id="p72001525172310"><a name="p72001525172310"></a><a name="p72001525172310"></a>相关产品</p>
-</th>
-<th class="cellrowborder" valign="top" width="50%" id="mcps1.1.3.1.2"><p id="p7201925132317"><a name="p7201925132317"></a><a name="p7201925132317"></a>相关文档</p>
-</th>
-</tr>
-</thead>
-<tbody><tr id="row152031825142310"><td class="cellrowborder" valign="top" width="50%" headers="mcps1.1.3.1.1 "><p id="p192041625182318"><a name="p192041625182318"></a><a name="p192041625182318"></a><a href="https://www.huaweicloud.com/product/aos.html?infodoc1.0" target="_blank" rel="noopener noreferrer">应用编排服务 AOS</a></p>
-<p id="p0311145810410"><a name="p0311145810410"></a><a name="p0311145810410"></a><a href="https://www.huaweicloud.com/product/cce.html?infodoc1.0" target="_blank" rel="noopener noreferrer">云容器引擎 CCE</a></p>
-<p id="p62061025142316"><a name="p62061025142316"></a><a name="p62061025142316"></a><a href="https://www.huaweicloud.com/product/ecs.html?infodoc1.0" target="_blank" rel="noopener noreferrer">弹性云服务器 ECS</a></p>
-<p id="p56849617152"><a name="p56849617152"></a><a name="p56849617152"></a><a href="https://www.huaweicloud.com/product/vpc.html?infodoc1.0" target="_blank" rel="noopener noreferrer">虚拟私有云 VPC</a></p>
-<p id="p19659040556"><a name="p19659040556"></a><a name="p19659040556"></a><a href="https://www.huaweicloud.com/product/ces.html?infodoc1.0" target="_blank" rel="noopener noreferrer">云监控 CES</a></p>
-<p id="p118401954555"><a name="p118401954555"></a><a name="p118401954555"></a><a href="https://www.huaweicloud.com/product/cts.html?infodoc1.0" target="_blank" rel="noopener noreferrer">云审计 CTS</a></p>
-</td>
-<td class="cellrowborder" valign="top" width="50%" headers="mcps1.1.3.1.2 "><p id="p959019196593"><a name="p959019196593"></a><a name="p959019196593"></a><a href="https://support.huaweicloud.com/qs-aos/index.html?infodoc1.0" target="_blank" rel="noopener noreferrer">快速入门-通过公共模板创建资源堆栈</a></p>
-<p id="p14446527862"><a name="p14446527862"></a><a name="p14446527862"></a><a href="https://support.huaweicloud.com/tr-aos/aos_01_4000.html?infodoc1.0" target="_blank" rel="noopener noreferrer">模板简介</a></p>
-<p id="p15698421353"><a name="p15698421353"></a><a name="p15698421353"></a><a href="https://support.huaweicloud.com/usermanual-aos/aos_01_8011.html?infodoc1.0" target="_blank" rel="noopener noreferrer">堆栈管理</a></p>
-<p id="p7211210322"><a name="p7211210322"></a><a name="p7211210322"></a><a href="https://support.huaweicloud.com/usermanual-aos/aos_01_5016.html?infodoc1.0" target="_blank" rel="noopener noreferrer">使用设计器</a></p>
-<p id="p0481187193317"><a name="p0481187193317"></a><a name="p0481187193317"></a><a href="https://support.huaweicloud.com/usermanual-aos/aos_01_5018.html?infodoc1.0" target="_blank" rel="noopener noreferrer">使用生成器</a></p>
 </td>
 </tr>
 </tbody>
