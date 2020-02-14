@@ -67,6 +67,11 @@
 <td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p12344412022"><a name="p12344412022"></a><a name="p12344412022"></a>查询指定模板的输入参数。</p>
 </td>
 </tr>
+<tr id="row9345142514164"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p4346122515166"><a name="p4346122515166"></a><a name="p4346122515166"></a><a href="获取模板列表.md">获取模板列表</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p1734672571619"><a name="p1734672571619"></a><a name="p1734672571619"></a>根据提供的参数获取模板列表。</p>
+</td>
+</tr>
 </tbody>
 </table>
 
