@@ -9,7 +9,7 @@
 </thead>
 <tbody><tr id="row1636416178493"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.1.3.1.1 "><p id="p7364717114914"><a name="p7364717114914"></a><a name="p7364717114914"></a><a href="创建模板.md">模板管理接口</a></p>
 </td>
-<td class="cellrowborder" valign="top" width="68%" headers="mcps1.1.3.1.2 "><p id="p19208131145113"><a name="p19208131145113"></a><a name="p19208131145113"></a>模板管理接口，包括创建、查询、更新、删除模板的接口等。</p>
+<td class="cellrowborder" valign="top" width="68%" headers="mcps1.1.3.1.2 "><p id="p19208131145113"><a name="p19208131145113"></a><a name="p19208131145113"></a>模板管理接口，包括创建、查询、更新、删除、下载模板的接口等。</p>
 <p id="p02091211155119"><a name="p02091211155119"></a><a name="p02091211155119"></a>通过这些接口，您可以创建模板、查询模板列表、更新模板、删除模板、查询指定模板和查询模板输入。</p>
 </td>
 </tr>
@@ -24,7 +24,7 @@
 
 ## 模板管理接口<a name="section14967428145618"></a>
 
-模板管理接口，包括创建、查询、更新、删除模板的接口等。通过这些接口，您可以创建模板、查询模板列表、更新模板、删除模板、查询指定模板和查询模板输入。
+模板管理接口，包括创建、查询、更新、删除模板的接口等。通过这些接口，您可以创建模板、查询模板列表、更新模板、删除模板、下载模板、查询指定模板和查询模板输入。
 
 **表 1**  模板管理接口
 
@@ -55,6 +55,11 @@
 </td>
 <td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p193441716219"><a name="p193441716219"></a><a name="p193441716219"></a>删除一个指定的模板。</p>
 <p id="p5277134417175"><a name="p5277134417175"></a><a name="p5277134417175"></a>只有不存在使用该模板创建的堆栈时才能删除。</p>
+</td>
+</tr>
+<tr id="row105101585129"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p451158101218"><a name="p451158101218"></a><a name="p451158101218"></a><a href="下载模板.md">下载模板</a></p>
+</td>
+<td class="cellrowborder" valign="top" width="68%" headers="mcps1.2.3.1.2 "><p id="p2051112861214"><a name="p2051112861214"></a><a name="p2051112861214"></a>下载一个指定的模板。</p>
 </td>
 </tr>
 <tr id="row1534418114216"><td class="cellrowborder" valign="top" width="32%" headers="mcps1.2.3.1.1 "><p id="p93441315212"><a name="p93441315212"></a><a name="p93441315212"></a><a href="查询模板.md">查询模板</a></p>
