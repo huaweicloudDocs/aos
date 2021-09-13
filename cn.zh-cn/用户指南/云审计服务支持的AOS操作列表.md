@@ -61,11 +61,6 @@
 <td class="cellrowborder" valign="top" width="74%" headers="mcps1.2.3.1.2 "><p id="p716134710284"><a name="p716134710284"></a><a name="p716134710284"></a>冻结解冻租户</p>
 </td>
 </tr>
-<tr id="row19660727172811"><td class="cellrowborder" valign="top" width="26%" headers="mcps1.2.3.1.1 "><p id="p106321939132816"><a name="p106321939132816"></a><a name="p106321939132816"></a>GetBillingData</p>
-</td>
-<td class="cellrowborder" valign="top" width="74%" headers="mcps1.2.3.1.2 "><p id="p7161470285"><a name="p7161470285"></a><a name="p7161470285"></a>生成话单</p>
-</td>
-</tr>
 </tbody>
 </table>
 
